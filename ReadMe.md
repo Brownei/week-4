@@ -1,0 +1,2 @@
+# MY BEAR CHALLENGE LEVEL 2 SUBMISSION
+In this weeks challange i decided to be creative and i tried implementing a way to seive out bots. By this I mean that Alice is been asked to input a random number visible to only her and she can only get it if she is a human, if she gets a wrong answer while the countdown is still on she is marked absent and the balance of the vault is sent to Bob but if Alice gets the answers correctly while the countdown is still on she gets the inheritance back.
